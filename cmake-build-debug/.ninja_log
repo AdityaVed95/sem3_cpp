@@ -1,0 +1,8 @@
+# ninja log v5
+5	308	1669304947077456569	build.ninja	ee42cf10c22f03b2
+1	3827	1669304886716590745	CMakeFiles/sem3_cpp.dir/data_structures/map_data_structure/trying_duplicate_keys2.cpp.o	314b185c2dcfc960
+0	1973	1669287022491564257	CMakeFiles/sem3_cpp.dir/hello.cpp.o	45fbf3f28b88c09b
+3828	3994	1669304886907338665	sem3_cpp	3d75b421c9dd977f
+2	1356	1669304260315917172	CMakeFiles/sem3_cpp.dir/data_structures/map_data_structure/test1.cpp.o	89d4598020762f5a
+8	2710	1669288447045456585	CMakeFiles/sem3_cpp.dir/data_structures/map_data_structure/map_main.cpp.o	94cf7fa7e7f33bd2
+14	2647	1669301746485415678	CMakeFiles/sem3_cpp.dir/data_structures/map_data_structure/map_assignment.cpp.o	965121d33815851c
